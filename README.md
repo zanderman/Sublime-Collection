@@ -9,4 +9,4 @@ Cheers,
 
 zanderman
 
-"Remember, when writing code that Jesus saves. So why shouldn't you?" - anonymous
+"Remember that when writing code, Jesus saves. So why shouldn't you?" - Anonymous
