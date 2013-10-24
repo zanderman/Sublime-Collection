@@ -1,12 +1,8 @@
 Sublime-Snippets
 ================
-This is a collection of useful code snippets for SublimeText.  Please use them 
-at your leisure, and feel free to edit them!  Contact me if you have a snippet
-idea that you would like to see added to this list.
+This is a collection of useful code snippets for SublimeText. If you have an idea for a new snippet, contact me!  :D
 
 
-Cheers,
+-- zanderman
 
-zanderman
-
-"Remember, when writing code that Jesus saves. So why shouldn't you?" - anonymous
+"Remember that when writing code, Jesus saves. So why shouldn't you?" - Anonymous
