@@ -1,4 +1,4 @@
-Sublime-Snippets
+Sublime-Collection
 ================
 This is a collection of useful files for SublimeText.  Please use them at your
 leisure, and feel free to edit them!  Contact me if you have an idea that you 
