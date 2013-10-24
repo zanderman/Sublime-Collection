@@ -1,0 +1,30 @@
+// Below is a sample of what my Preferences file looks like.
+// The important part for TODOs is listed with a "*".
+
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	// ********************************
+	"todo":
+	{
+		"case_sensitive": true,
+		"patterns":
+		{
+			"BUG": "BUG[\\s]*?:+(?P<bug>.*)$",
+			"CHANGED": "CHANGED[\\s]*?:+(?P<changed>.*)$",
+			"DELETE": "DELETE[\\s]*?:+(?P<delete>.*)$",
+			"FIX": "FIX[\\s]*?:+(?P<fix>.*)$",
+			"FIXME": "FIX ?ME[\\s]*?:+(?P<fixme>.*)$",
+			"NOTE": "NOTE[\\s]*?:+(?P<note>.*)$",
+			"TEST": "TEST[\\s]*?:+(?P<test>.*)$",
+			"TODO": "TODO[\\s]*?:+(?P<todo>.*)$",
+			"STEP": "STEP[\\s]*?:+(?P<step>.*)$"
+		},
+		"result_title": "TODO Results"
+	}
+	// ********************************
+}
