@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+// Interrupt Service Routine function
+void __ISR(${1:Interrupt_Vector}, ${2:Interrupt_Priority_Level}) ${3:Interrupt_Handler_Function_Name}( void )
+{
+	// ISR code here
+	${4}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>isr</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Inserts an __ISR function.</description>
+
+</snippet>
