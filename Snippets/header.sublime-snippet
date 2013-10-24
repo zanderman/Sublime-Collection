@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+/* ----------------------------------------- *
+ * File:  ${TM_FILENAME}
+ *
+ * Author: ${2:AuthorName}
+ * Assignment:  ${3:AssignmentName}
+ * Last Edited:  ${4:DateLastEdited}
+ * Revision History: 
+ *      ${5:FirstEntry}
+ *
+ * Course: ${6:CourseName}
+ * Instructor: ${7:InstructorName}
+ *
+ * Description:
+ *          ${8:ProgramDescription}
+ *
+ * Resources:
+ *          ${9:ResourcesList}
+ *      ${TM_CURRENT_TIME}
+ *
+ * Created on ${10:Month} ${11:Day}, ${12:Year}, ${13:TimeHour}:${14:TimeMinute} ${15:AM/PM}
+ * ----------------------------------------- */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>header</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Inserts a commented header.</description>
+</snippet>
